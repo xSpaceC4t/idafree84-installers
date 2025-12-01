@@ -1,9 +1,6 @@
-SHA256 checksums:
-
-arm_idafree84_mac.app.zip -> dec15875d871a398088a05320ac45e1971940de279abb8e2cd57054833da18f6
-
-idafree84_linux.run -> 941f228ce489bf0a14268980edad16140be297e0749245d7839a2a3b02070a62
-
-idafree84_mac.app.zip -> c4cf8b35d02b217351cad738c8aadaf0bb17aacc3e7421e6b420c5fe2451e6f5
-
-idafree84_windows.exe -> a2fc7eae91860a6d05c946d1ee8ab59afd061e8fc5f965de4112d66b16ac2091
+```
+dec15875d871a398088a05320ac45e1971940de279abb8e2cd57054833da18f6  arm_idafree84_mac.app.zip
+941f228ce489bf0a14268980edad16140be297e0749245d7839a2a3b02070a62  idafree84_linux.run
+c4cf8b35d02b217351cad738c8aadaf0bb17aacc3e7421e6b420c5fe2451e6f5  idafree84_mac.app.zip
+a2fc7eae91860a6d05c946d1ee8ab59afd061e8fc5f965de4112d66b16ac2091  idafree84_windows.exe
+```
